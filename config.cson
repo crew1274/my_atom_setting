@@ -1,0 +1,23 @@
+"*":
+  core:
+    themes: [
+      "seti-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 23
+    invisibles: {}
+    preferredLineLength: 120
+    scrollPastEnd: true
+    scrollSensitivity: 60
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "b0904c1b-462d-8a46-a162-4a266cbaa852"
+  minimap:
+    adjustAbsoluteModeHeight: true
+  "seti-ui": {}
+  welcome:
+    showOnStartup: false
